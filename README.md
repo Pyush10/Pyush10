@@ -1,4 +1,5 @@
 <p align="center">
+  
 <img src="https://user-images.githubusercontent.com/79526604/167676901-4770a712-c592-44aa-a4a5-f2339d3dad82.gif" width=50% height=40%>
 </p>
 <h1 align="center">Hi 👋, I'm Pyush</h1>
