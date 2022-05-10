@@ -2,7 +2,7 @@
   
 <img src="https://user-images.githubusercontent.com/79526604/167676901-4770a712-c592-44aa-a4a5-f2339d3dad82.gif" width=50% height=40%>
 </p>
-<h1 align="center">Hi 👋, I'm Pyush</h1>
+<h1 align="center">Hello 👋, I'm Pyush</h1>
 <h3 align="center">A passionate student from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyush10&label=Profile%20views&color=0e75b6&style=flat" alt="pyush10" /> </p>
