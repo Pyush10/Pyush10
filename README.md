@@ -1,4 +1,4 @@
-
+![NUX_Octodex](https://user-images.githubusercontent.com/79526604/167676901-4770a712-c592-44aa-a4a5-f2339d3dad82.gif)
 <h1 align="center">Hi 👋, I'm Pyush</h1>
 <h3 align="center">A passionate student from Nepal</h3>
 
