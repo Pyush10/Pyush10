@@ -1,5 +1,6 @@
 <p align="center">
 <img width=50% height=40% src="https://user-images.githubusercontent.com/79526604/167676901-4770a712-c592-44aa-a4a5-f2339d3dad82.gif#gh-light-mode-only">
+<img width=50% height=40% src="https://user-images.githubusercontent.com/79526604/172174903-b0614143-7979-413f-ab52-d2e559a22081.mp4#gh-dark-mode-only">
 </p>
 <h1 align="center">Hello 👋, I'm Pyush</h1>
 <h3 align="center">A passionate student from Nepal</h3>
