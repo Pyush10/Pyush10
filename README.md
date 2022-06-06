@@ -1,5 +1,7 @@
 <p align="center">
 <img width="50%" height="40%" src="https://user-images.githubusercontent.com/79526604/167676901-4770a712-c592-44aa-a4a5-f2339d3dad82.gif#gh-light-mode-only"/>
+</p>
+<p align="center">
 <img width="40%" height="40%" src="https://user-images.githubusercontent.com/79526604/172176232-946d4c87-fd24-4214-bc1f-38453d409ce0.jpg#gh-dark-mode-only"/>
 </p>
 <h1 align="center">Hello 👋, I'm Pyush</h1>
