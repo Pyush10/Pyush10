@@ -43,14 +43,6 @@ I am a student from Nepal passionate about transforming **Structural Engineering
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyush10&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pyush10&show_icons=true&locale=en&theme=nord&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/pyush-kunwar-361572234" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
