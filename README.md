@@ -12,7 +12,7 @@ I am a student from Nepal passionate about transforming **Structural Engineering
 ### 🚀 Featured Focus
 - 🏗️ **Abaqus Scripting:** Automating Finite Element Analysis (FEA) using the Python API to optimize structural workflows.
 - 💻 **Computational Civil Engineering:** Applying CS principles to solve complex numerical problems in infrastructure.
-- 🔭 **Current Project:** [Python Scripting in Abaqus](https://github.com/Pyush10/Web.git) — developing scripts for automated simulation and data extraction.
+- 🔭 **Current Project:** [Python Scripting in Abaqus](https://github.com/Pyush10/AbaqusPythonScripts) — developing scripts for automated simulation and data extraction.
 
 ---
 
