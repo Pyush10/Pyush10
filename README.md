@@ -1,7 +1,7 @@
 # Namaste, I'm Pyush Singh Kunwar
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=220&section=header&text=Pyush%20Singh%20Kunwar&fontSize=60&animation=fadeIn&desc=Civil%20Engineer%20from%20Nepal&descSize=20&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=220&section=header&text=Pyush%20Singh%20Kunwar&fontSize=60&animation=fadeIn&desc=Civil%20Engineer%20from%20Nepal&descSize=20&descAlignY=72" width="100%" />
 </p>
 
 ### 🌉 Bridging Civil Engineering & Computer Science
