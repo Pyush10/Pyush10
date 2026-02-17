@@ -1,5 +1,5 @@
 <p align="center">
-<img width="50%" height="40%" src="https://user-images.githubusercontent.com/79526604/167676901-4770a712-c592-44aa-a4a5-f2339d3dad82.gif#gh-light-mode-only"/>
+<img width="40%" height="30%" src="https://user-images.githubusercontent.com/79526604/167676901-4770a712-c592-44aa-a4a5-f2339d3dad82.gif#gh-light-mode-only"/>
 </p>
 <p align="center">
 <img width="40%" height="30%" src="https://user-images.githubusercontent.com/79526604/172176232-946d4c87-fd24-4214-bc1f-38453d409ce0.jpg#gh-dark-mode-only"/>
@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/pyushkunwar" target="blank"><img src="https://img.shields.io/twitter/follow/pyushkunwar?logo=twitter&style=for-the-badge" alt="pyushkunwar" /></a> </p>
 
-- 🔭 I’m currently working on [Web Development](https://github.com/Pyush10/Web.git)
+- 🔭 I’m currently working on [Python Scripting in Abaqus](https://github.com/Pyush10/Web.git)
 
-- 🌱 I’m currently learning **working of web and JS.**
+- 🌱 I’m currently learning **Python Scripting for Abaqus**
 
-- 💬 Ask me about **web development, programming**
+- 💬 Ask me about **Abaqus FEA, programming**
 
 - 📫 How to reach me **pyush10kunwar@gmail.com**
 
