@@ -5,7 +5,7 @@
 </p>
 
 ### 🌉 Bridging Civil Engineering & Computer Science
-I am a student from Nepal passionate about transforming **Structural Engineering** through **Software Automation**. I specialize in creating the link between physical infrastructure and computational efficiency.
+I am a student from Nepal passionate about transforming **Structural Engineering** through **Automation**. I specialize in creating the link between physical infrastructure and computational efficiency.
 
 ---
 
